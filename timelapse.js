@@ -17,6 +17,3 @@ logger.log({
 });
 // Log a message
 logger.info('Hello, Winston!')
-console.log("Raspberry PI Timelapse")
-let date = new Date();
-console.log(date)
